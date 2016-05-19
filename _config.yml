@@ -1,14 +1,29 @@
+name: Change The Future
+favicon: null
 layout_spectrum: 0.697637
 typography_spectrum: 0.5676692
+title: Change The Future
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.436683
-  brandStrength: 0.8450794
-  lightness: 0.8027094
   brandColors:
     - '#1F0201'
     - '#F1C5A3'
     - '#6F5230'
     - '#FEBD00'
     - '#C64B01'
+  brandStrength: 0.8450794
+  lightness: 0.8027094
+  saturation: 0.436683
   rhythmicContrast: 0.7187732
-name: Change The Future
+purpose: []
