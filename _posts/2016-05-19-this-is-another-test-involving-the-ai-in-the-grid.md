@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: This is another test involving the ai in the grid.
-datePublished: '2016-05-19T03:50:11.467Z'
-dateModified: '2016-05-19T03:49:53.800Z'
+datePublished: '2016-05-19T03:54:31.650Z'
+dateModified: '2016-05-19T03:50:19.867Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-19-this-is-another-test-involving-the-ai-in-the-grid.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-05-19-this-is-another-test-involving-the-ai-in-the-grid.md
 url: this-is-another-test-involving-the-ai-in-the-grid/index.html
 _type: Article
 
